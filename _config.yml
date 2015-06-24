@@ -1,10 +1,10 @@
 # Site settings
-title: CDK Front Office Edge Living Styleguide
+title: Styleguide Test
 email: michael.heliker@cdk.com
 description: > # this means to ignore newlines until "baseurl:"
-  Front Office Edge Living Styleguide
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.jekyllrb.com" # the base hostname & protocol for your site
+  Front Office Edge Living Styleguide is Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad officia vero eos eligendi reiciendis ipsam et ab atque minima. Illum perspiciatis obcaecati earum commodi pariatur odit, reiciendis sed quasi, repellat.
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://mikelangelo.github.io" # the base hostname & protocol for your site
 # twitter_username: 
 #github_username: 
 
